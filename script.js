@@ -1,5 +1,7 @@
 // 'The Fox' game designed by Alexander Zelenkov in 2022
+// http://zelenkov.space/fox/
 // lll555@yandex.ru 
+
 
 let isReady = false;
 let gameNotRun = true;
